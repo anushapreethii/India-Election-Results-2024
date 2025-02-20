@@ -35,6 +35,6 @@ The dataset consists of five tables:
 **How to Run This Project :**
 1. Install SQL Server Management Studio (SSMS).
 2. Import the dataset using the Import Flat File Wizard.
-3. Run the SQL queries from **elections_analysis.sql** file.
+3. Run the SQL queries from **Election_Analysis.sql** file.
 4. Analyze the results using the provided queries.
 
