@@ -1,16 +1,17 @@
 **India-Election-Results-2024**
+
 SQL project analyzing India's 2024 General Election results using SSMS and SQL Server.
 
-**Project Overview**
+**Project Overview :**
   
 This project analyzes the **India General Elections 2024** dataset using **SQL Server (SSMS)**. The dataset contains real-time election data, and SQL queries were used to extract meaningful insights. 
 
-Tools Used  
+**Tools Used :**
 - **Microsoft SQL Server (SSMS)**  
 - **SQL Queries**  
 - **Excel (for importing data)**
 
-**Dataset and Tables**  
+**Dataset and Tables :**  
 The dataset consists of five tables:  
 
 1. `constituencywise_details` – Contains constituency-level information.  
@@ -19,7 +20,7 @@ The dataset consists of five tables:
 4. `states` – Contains state-wise details.  
 5. `statewise_results` – Stores state-wise election results.
 
-**Key Problem Statements**
+**Key Problem Statements :**
 1. Total Seats Available for Elections.
 2. Total Number of Seats in Each State.
 3. Total Seats Won by NDA Alliance.
@@ -31,7 +32,7 @@ The dataset consists of five tables:
 9. Seats Won by Each Party in a Specific State.
 10. Runner-Up Candidate for Each Constituency.
 
-**How to Run This Project**
+**How to Run This Project :**
 1. Install SQL Server Management Studio (SSMS).
 2. Import the dataset using the Import Flat File Wizard.
 3. Run the SQL queries from **elections_analysis.sql** file.
